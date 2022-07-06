@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 #Jangan ganti Nama Nya ini Buat M!Tech Anjing
-#Ddos by RdNs M!Tech
+#Ddos by Han M!Tech
 import random
 import socket
 import threading
 import os
 
 os.system("clear")
-print("Tools By RdNs M!Tech")
+print("Tools By Han M!Tech")
 print("Pasti Tembus Nih Kalau M!Tech Yang Ddos")
 ip = str(input(" Ip: "))
 port = int(input(" Port: "))
